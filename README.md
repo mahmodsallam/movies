@@ -16,3 +16,6 @@ By building this app, you will demonstrate your understanding of the foundationa
 - Use adapters and custom list layouts to populate list views
 - Incorporate libraries to simplify the amount of code you need to write
 - Build a fully featured application that looks and feels natural on both Android and IOS operating systems.
+
+### Get it on Google Play
+**Movies**  gives you information about movies from the TMDb. See what movies are the most popular and high rated. You can also discover Now Playing or Upcoming movies. Popular Movies app will help you decide what to watch.👍
