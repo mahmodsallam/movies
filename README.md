@@ -19,3 +19,5 @@ By building this app, you will demonstrate your understanding of the foundationa
 
 ## Get it on Google Play
 **Movies**  gives you information about movies from the TMDb. See what movies are the most popular and high rated. You can also discover Now Playing or Upcoming movies. Popular Movies app will help you decide what to watch.👍
+
+## Screenshots
