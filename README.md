@@ -15,4 +15,4 @@ By building this app, you will demonstrate your understanding of the foundationa
 - Fetch data from the Internet with theMovieDB API
 - Use adapters and custom list layouts to populate list views
 - Incorporate libraries to simplify the amount of code you need to write
-- Build a fully featured application that looks and feels natural on the latest Android operating system.
+- Build a fully featured application that looks and feels natural on both Android and IOS operating systems.
