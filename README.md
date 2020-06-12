@@ -21,4 +21,5 @@ By building this app, you will demonstrate your understanding of the foundationa
 **Movies**  gives you information about movies from the TMDb. See what movies are the most popular and high rated. You can also discover Now Playing or Upcoming movies. Popular Movies app will help you decide what to watch.👍
 
 ## Screenshots
-
+<img src="1.png" width="150" margins="5px"><img src="2.png" width="150"> <img src="3.png" width="150"> <img src="4.png" width="150">
+<img src="5.png" width="150"><img src="6.png" width="150">
