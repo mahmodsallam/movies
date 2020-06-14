@@ -21,7 +21,7 @@ By building this app, you will demonstrate your understanding of the foundationa
 **Movies**  gives you information about movies from the TMDb. See what movies are the most popular and high rated. You can also discover Now Playing or Upcoming movies.
  Popular Movies app will help you decide what to watch.👍
  
-<a href="https://play.google.com/store/apps/details?id=com.sallam.movies&hl=en"> <img src="google_play.png"></a>  
+<a href="https://play.google.com/store/apps/details?id=com.sallam.movies&hl=en" > <img src="google_play.png"></a>  
 <a href="https://play.google.com/store/apps/details?id=com.sallam.movies&hl=en"> <img src="app_ic.png" width="150"></a>
 
 ## Screenshots
