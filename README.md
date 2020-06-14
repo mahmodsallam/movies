@@ -24,6 +24,14 @@ By building this app, you will demonstrate your understanding of the foundationa
 <a href="https://play.google.com/store/apps/details?id=com.sallam.movies&hl=en" > <img src="google_play.png"></a>  
 <a href="https://play.google.com/store/apps/details?id=com.sallam.movies&hl=en"> <img src="app_ic.png" width="150"></a>
 
+- Added search features so that you can search for movies by keyword
+- Integrated Firebase Analytics, Crashlytics, Firebase AdMob
+- Created a launcher icon using Adobe Photoshop
+**Popular Movies uses the TMDb API but is not endorsed or certified by TMDb.**
+I learned how to link my app to Google AdMob, design an app icon, how to reply on the feedback on improvements, 
+and use the Google Play Console to manage my app. If you like my Popular Movies app, 
+you can download it on Google Play. <a href="https://play.google.com/store/apps/details?id=com.sallam.movies&hl=en">Download Link</a>. 
+
 ## Screenshots
 <img src="1.png" width="150" margins="5px"><img src="2.png" width="150"> <img src="3.png" width="150"> <img src="4.png" width="150">
 <img src="5.png" width="150">
